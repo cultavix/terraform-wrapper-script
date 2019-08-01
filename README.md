@@ -53,6 +53,8 @@ terraform {
 * Testing
 * Automated versioning
 * Docker version (Docker Hub)
+* Pipeline (CircleCI most likely, maybe more than one for diff. purposes, yay for free CIs platforms)
+* [pre-commit](https://www.pre-commit.org)
 
 ## Contributing
 Please, all feed-back and potential tweaks are welcome! Please see this [great article](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) on how to contribute if you haven't done so before.
